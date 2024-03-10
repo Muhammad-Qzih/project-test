@@ -1,4 +1,3 @@
-add login page
 Create Home page
 Create Sidbar page 
 Create forget pass page
